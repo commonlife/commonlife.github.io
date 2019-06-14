@@ -4,16 +4,66 @@
   
   <url>
     <loc>https://commonlife.github.io/categories/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/posts/hugo-install-post/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/posts/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://commonlife.github.io/tags/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/tags/github/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/tags/github.io/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/tags/go/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/tags/golang/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/categories/how-to/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://commonlife.github.io/tags/hugo/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://commonlife.github.io/</loc>
+    <lastmod>2019-06-14T10:37:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   

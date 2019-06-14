@@ -6,9 +6,55 @@
     <description>Recent content in Tags on 비오는 숲</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
+    <lastBuildDate>Fri, 14 Jun 2019 10:37:56 +0900</lastBuildDate>
     
 	<atom:link href="https://commonlife.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>github</title>
+      <link>https://commonlife.github.io/tags/github/</link>
+      <pubDate>Fri, 14 Jun 2019 10:37:56 +0900</pubDate>
+      
+      <guid>https://commonlife.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github.io</title>
+      <link>https://commonlife.github.io/tags/github.io/</link>
+      <pubDate>Fri, 14 Jun 2019 10:37:56 +0900</pubDate>
+      
+      <guid>https://commonlife.github.io/tags/github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://commonlife.github.io/tags/go/</link>
+      <pubDate>Fri, 14 Jun 2019 10:37:56 +0900</pubDate>
+      
+      <guid>https://commonlife.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://commonlife.github.io/tags/golang/</link>
+      <pubDate>Fri, 14 Jun 2019 10:37:56 +0900</pubDate>
+      
+      <guid>https://commonlife.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://commonlife.github.io/tags/hugo/</link>
+      <pubDate>Fri, 14 Jun 2019 10:37:56 +0900</pubDate>
+      
+      <guid>https://commonlife.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
