@@ -184,6 +184,38 @@
 
 <p><a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
 
+<h5 id="git-themes를-submodule로-추가하기">git : themes를 submodule로 추가하기</h5>
+
+<p>프로젝트의 root 디렉토리에서</p>
+
+<ol>
+<li>git init</li>
+<li>git submodule add <a href="https://github.com/budparr/gohugo-theme-ananke.git">https://github.com/budparr/gohugo-theme-ananke.git</a> themes/{theme 이름}</li>
+</ol>
+
+<h5 id="git-다른-pc에서-themes를-submodule로-불러오기">git : 다른 PC에서 themes를 submodule로 불러오기</h5>
+
+<p>일단 프로젝트는 clone을 한 상태이며 프로젝트 root 디렉토리에 있다.</p>
+
+<ol>
+<li>git submodule init</li>
+<li>git submodule update</li>
+</ol>
+
+<h5 id="git-submodule-삭제하기">git : submodule 삭제하기</h5>
+
+<p>프로젝트의 root 디렉토리</p>
+
+<ol>
+<li>vi .gitmodules : 파일을 열어 삭제할 모듈들을 삭제</li>
+<li>git rm &ndash;cached {submodule 이름} : .gitmodules에 있던 이름</li>
+<li>git submodule deinit {submodule path}</li>
+<li>rm -rf .git/modules/{submodule 이름}</li>
+<li>commit &amp; push</li>
+</ol>
+
+<p>note : 프로젝트 전체를 clone한 후 submodule들을 업데이트하여 다운로드 받아야 삭제가 가능하다.</p>
+
 <h3 id="3-글을-만든다">3. 글을 만든다.</h3>
 
 <blockquote>
